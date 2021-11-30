@@ -13,11 +13,11 @@
         "Updated": "2021-11-23",
         "CU": "https://download.microsoft.com/download/f/0/e/f0e65686-3761-4c9d-b8b2-9fb71a207b8d/ExchangeServer2016-x64-CU22.ISO",
 		"Patch": "https://download.microsoft.com/download/1/d/d/1ddec463-8aad-4907-9978-3a8a4f591e87/Exchange2016-KB5007409-x64-en.msp"
-     } 
-	 {
+     }, 
+     {
 		"Version": "All",
 		"Updated": "2021-11-23",
 		"Patch": "https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi"		
-	}
+     }
   ]   
 }
