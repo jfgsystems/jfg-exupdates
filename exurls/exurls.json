@@ -24,8 +24,8 @@
   "Enabled": [ 
 	
      { 
-        "CU":"False", 
-        "Patch": "True"
+        "CU":"0", 
+        "Patch": "1"
        
      } 
   ]
