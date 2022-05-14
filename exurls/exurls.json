@@ -24,7 +24,7 @@
   "Enabled": [ 
 	
      { 
-        "CU":"0", 
+        "CU":"1", 
         "Patch": "1",
         "ExtraCMD": "1" 
      } 
