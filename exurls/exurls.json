@@ -5,14 +5,14 @@
         "Version":"2019", 
         "Updated": "2022-05-13",
         "CU": "https://download.microsoft.com/download/b/c/7/bc766694-8398-4258-8e1e-ce4ddb9b3f7d/ExchangeServer2019-x64-CU12.ISO",
-		"Patch": "https://download.microsoft.com/download/d/7/8/d78f35af-4d36-43ac-b66d-40e895e39fdb/Exchange2019-KB5014261-x64-en.exe"
+	"Patch": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/exchange2019-kb5014261-x64-en_bdc17db07b39ec87053c108ac714d6eccaa61533.cab"
      }, 
 	
      { 
         "Version":"2016", 
         "Updated": "2022-05-13",
         "CU": "https://download.microsoft.com/download/8/d/2/8d2d01b4-5bbb-4726-87da-0e331bc2b76f/ExchangeServer2016-x64-CU23.ISO",
-		"Patch": "https://download.microsoft.com/download/d/5/5/d555a327-bfdd-45f0-ba44-a40cc982aa18/Exchange2016-KB5014261-x64-en.exe"
+	"Patch": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/05/exchange2016-kb5014261-x64-en_add21f0b372197fda1abcffbab7ac8da2068df25.cab"
      }, 
      {
 		"Version": "All",
