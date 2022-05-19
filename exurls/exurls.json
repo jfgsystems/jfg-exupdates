@@ -26,7 +26,7 @@
      { 
         "CU":"1", 
         "Patch": "0",
-        "ExtraCMD": "1" 
+        "ExtraCMD": "0" 
      } 
   ]
 }
