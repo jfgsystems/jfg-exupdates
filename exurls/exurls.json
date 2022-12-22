@@ -28,5 +28,12 @@
         "Patch": "1",
         "ExtraCMD": "0" 
      } 
+  ],
+
+  "ScriptVer": [ 
+	
+     { 
+        "CU":"1.5a"
+     } 
   ]
 }
