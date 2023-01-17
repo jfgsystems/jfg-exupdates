@@ -5,19 +5,21 @@
         "Version":"2019", 
         "Updated": "2022-12-19",
         "CU": "https://download.microsoft.com/download/b/c/7/bc766694-8398-4258-8e1e-ce4ddb9b3f7d/ExchangeServer2019-x64-CU12.ISO",
-	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/11/exchange2019-kb5019758-x64-en_3c34eb848d96b97c48e76d2ce1123f95ff5eacdc.cab"
+	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/01/exchange2019-kb5022193-x64-en_1b762e2687a5de82d73abcdcb3eb1b8d8419a485.cab",
+	"Build":"15.02.1118.021"
      }, 
 	
      { 
         "Version":"2016", 
         "Updated": "2022-12-19",
         "CU": "https://download.microsoft.com/download/8/d/2/8d2d01b4-5bbb-4726-87da-0e331bc2b76f/ExchangeServer2016-x64-CU23.ISO",
-	"Patch": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2022/11/exchange2016-kb5019758-x64-en_6ac070af2904f71534c1dc7582ff50ca9470e924.cab"
+	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/01/exchange2016-kb5022143-x64-en_e3725500cd6338540edd33edf446ceda2a61e851.cab",
+	"Build":"15.01.2507.017"     
      }, 
      {
-		"Version": "All",
-		"Updated": "2021-11-23",
-		"Patch": "https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi"		
+	"Version": "All",
+	"Updated": "2021-11-23",
+	"Patch": "https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi"		
      }
   ],
   
