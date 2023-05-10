@@ -3,7 +3,7 @@
 	
      { 
         "Version":"2019", 
-        "Updated": "2023-5-100",
+        "Updated": "2023-5-10",
         "CU": "https://download.microsoft.com/download/7/5/f/75f4d77e-002c-419c-a03a-948e8eb019f2/ExchangeServer2019-x64-CU13.ISO",
 	"Patch": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2023/03/exchange2019-kb5024296-x64-en_402dcba110be246a849f3c16cd3990a00a7ab341.cab",
 	"Build":"15.02.1258.012"
