@@ -3,18 +3,18 @@
 	
      { 
         "Version":"2019", 
-        "Updated": "2023-10-18",
+        "Updated": "2023-11-15",
         "CU": "https://download.microsoft.com/download/7/5/f/75f4d77e-002c-419c-a03a-948e8eb019f2/ExchangeServer2019-x64-CU13.ISO",
-	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/exchange2019-kb5030877-x64-en_f5a487d0fef22a63060c52a6412d2d2d0319da4f.cab",
-	"Build":"15.02.1258.027"
+	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/exchange2019-kb5032146-x64-en_58839983c7324fd8d232c8708f19eeafd2510a3c.cab",
+	"Build":"15.02.1258.028"
      }, 
 	
      { 
         "Version":"2016", 
-        "Updated": "2023-8-28",
+        "Updated": "2023-11-15",
         "CU": "https://download.microsoft.com/download/8/d/2/8d2d01b4-5bbb-4726-87da-0e331bc2b76f/ExchangeServer2016-x64-CU23.ISO",
-	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/10/exchange2016-kb5030877-x64-en_ac73099969a686be69f2f1902a38182d9b70df47.cab",
-	"Build":"15.01.2507.034"     
+	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/exchange2016-kb5032147-x64-en_fc7c6c8bf9598cfa2771f28315634f92fa384e3d.cab",
+	"Build":"15.01.2507.035"     
      }, 
      {
 	"Version": "All",
