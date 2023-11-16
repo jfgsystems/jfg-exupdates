@@ -41,5 +41,16 @@
 	"DL":"2.3",
 	"RDPCert":"1.0"
      } 
+  ],
+
+  "FileHash": [ 
+	
+     { 
+        "CU":"0CA616214F5954623C41E9F2E387271822B623818F6C7B54298B8FC4E91EBCAB",
+	"Cert":"",
+	"Health":"",
+	"DL":"",
+	"RDPCert":""
+     } 
   ]
 }
