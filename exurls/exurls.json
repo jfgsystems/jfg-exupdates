@@ -36,7 +36,7 @@
 	
      { 
         "CU":"1.81",
-	"Cert":"3.6",
+	"Cert":"3.7",
 	"Health":"1.1",
 	"DL":"2.3",
 	"RDPCert":"1.0"
@@ -47,7 +47,7 @@
 	
      { 
         "CU":"D14951758D1C0EC65E6DE0C9C5E914FC920F5C0361ECD0B2200B4A4D16B5414C",
-	"Cert":"",
+	"Cert":"550A4BA0FE6E3C88794C5A035D51F0FD33A5B6A490AC8D7B3410BE52C61E009F",
 	"Health":"",
 	"DL":"",
 	"RDPCert":""
