@@ -3,10 +3,10 @@
 	
      { 
         "Version":"2019", 
-        "Updated": "2023-11-15",
-        "CU": "https://download.microsoft.com/download/7/5/f/75f4d77e-002c-419c-a03a-948e8eb019f2/ExchangeServer2019-x64-CU13.ISO",
+        "Updated": "2024-02-16",
+        "CU": "https://download.microsoft.com/download/b/f/7/bf7700c9-c2fd-40be-82cc-7c5330b5f981/ExchangeServer2019-x64-CU14.ISO",
 	"Patch": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2023/11/exchange2019-kb5032146-x64-en_58839983c7324fd8d232c8708f19eeafd2510a3c.cab",
-	"Build":"15.02.1258.028"
+	"Build":"15.02.1544.004"
      }, 
 	
      { 
@@ -26,8 +26,8 @@
   "Enabled": [ 
 	
      { 
-        "CU":"0", 
-        "Patch": "1",
+        "CU":"1", 
+        "Patch": "0",
         "ExtraCMD": "0" 
      } 
   ],
