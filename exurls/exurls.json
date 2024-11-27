@@ -6,7 +6,7 @@
         "Updated": "2024-02-16",
         "CU": "https://download.microsoft.com/download/b/f/7/bf7700c9-c2fd-40be-82cc-7c5330b5f981/ExchangeServer2019-x64-CU14.ISO",
 	"Patch": "https://download.microsoft.com/download/8/0/b/80b356e4-f7b1-4e11-9586-d3132a7a2fc3/Exchange2019-KB5049233-x64-en.exe",
-	"Build":"15.02.1544.009"
+	"Build":"15.02.1544.014"
      }, 
 	
      { 
@@ -35,7 +35,7 @@
   "ScriptVer": [ 
 	
      { 
-        "CU":"1.81",
+        "CU":"1.9",
 	"Cert":"3.6",
 	"Health":"1.1",
 	"DL":"2.3",
