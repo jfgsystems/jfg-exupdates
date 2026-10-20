@@ -30,6 +30,11 @@
       "category": "Mesh IPs - Inbound IP Ranges",
       "provider": "Azure",
       "cidr": "20.241.129.96/28"
+    },
+    {
+      "category": "Securence IPs - Inbound IP Ranges",
+      "provider": "Securence",
+      "cidr": "216.17.3.0/24"
     }
   ]
 }
